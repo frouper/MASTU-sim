@@ -10,7 +10,8 @@ import equilibrium_taichi as eq
 # Particle params
 # ----------------------------
 
-N_PART = 5000
+#Change number of particles here
+N_PART = 50
 
 
 dt = 1e-8
@@ -159,6 +160,7 @@ def diagnostic_guiding_center(p: ti.i32):
 
     diag_phi_gc[None] = ti.atan2(Xgc.y, Xgc.x)
     
+
 
 
 
