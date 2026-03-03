@@ -6,4 +6,5 @@ A 2D MHD equilibrium is computed with [FreeGS](https://github.com/freegs-plasma/
 
 [Taichi Lang](https://www.taichi-lang.org/) is used for GPU-accelerated computation and rendering of the particles, coil and wall geometries. 
 
+Dependencys: NumPy and Taichi
 
