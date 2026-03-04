@@ -1,4 +1,4 @@
-# Tokamak Particle Tracker 
+# Tokamak Particle Tracer
 
 A 3D simulation of charged particles magnetically confined within a spherical tokamak of MAST-U dimensions. 
 
